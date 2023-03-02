@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Primeiro projeto 2022 CodeDrops",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Felipe",
+  "license": "MIT"
+}
